@@ -1,0 +1,7 @@
+checkpoints/
+*.pt
+training.log
+
+*.csv
+data/
+dataset/
